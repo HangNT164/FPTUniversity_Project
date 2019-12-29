@@ -1,0 +1,5 @@
+﻿Tuan Anh - male - SE04455 - 8.0
+Mai Hoa - female - SE04457 - 8.6
+Mai Hoa - female - SE04499 - 6.0
+Hoang Ngoc - Female - HE130561 - 6.0
+Hang Nguyen - female - HE130461 - 8.4

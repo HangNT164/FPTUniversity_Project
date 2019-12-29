@@ -1,0 +1,33 @@
+#employee tr td a {
+    padding: 5px;
+    color: #fff;
+    border-radius: .15rem;
+}
+
+#employee tr td .view {
+    background-color: #3bac47;
+}
+
+#employee tr td .view:hover {
+    color: #fff;
+    background-color: #308e3a;
+    text-decoration: none;
+}
+
+#employee tr td .edit {
+    background-color: #ffc107;
+}
+
+#employee tr td .edit:hover {
+    color: #fff;
+    background-color: #e0a800;
+}
+
+#employee tr td .remove {
+    background-color: #dc3545;
+}
+
+#employee tr td .remove:hover {
+    color: #fff;
+    background-color: #c82333;
+}

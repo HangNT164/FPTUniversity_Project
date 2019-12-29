@@ -1,0 +1,43 @@
+.card{
+    border:white solid 2px;
+}
+
+.card-header{
+    text-align: center;
+}
+li{
+    list-style: none;
+}
+ul{
+    text-align: left;
+}
+
+a{
+    color:black;
+}
+
+.col-lg-3 .col-xl-3 .col-md-4 .col-sm-6{
+    display: inline-block;
+}
+
+.card :hover{
+    border-color: black;
+}
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: white;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+.image-box img {
+    max-width: 100%;
+    transition: all 0.2s;
+    display: block;
+    width: 100%;
+    height: auto;
+    transform: scale(0.4);
+}
+
+.image-box:hover img {
+    transform: scale(0.7);
+}

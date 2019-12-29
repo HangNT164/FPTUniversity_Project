@@ -1,0 +1,61 @@
+#accounts tr td a {
+    padding: 5px;
+    color: #fff;
+    border-radius: .15rem;
+}
+
+#accounts tr td .function {
+    background-color: #3bac47;
+}
+
+#accounts tr td .function:hover {
+    color: #fff;
+    background-color: #308e3a;
+}
+
+#accounts tr td .edit {
+    background-color: #ffc107;
+}
+
+#accounts tr td .edit:hover {
+    color: #fff;
+    background-color: #e0a800;
+}
+
+#accounts tr td .remove {
+    background-color: #dc3545;
+}
+
+#accounts tr td .remove:hover {
+    color: #fff;
+    background-color: #c82333;
+}
+
+
+#role-of-account tr td a {
+    padding: 5px;
+    color: #fff;
+    border-radius: .15rem;
+}
+
+#role-of-account tr td .edit {
+    background-color: #ffc107;
+}
+
+#role-of-account tr td .edit:hover {
+    color: #fff;
+    background-color: #e0a800;
+}
+
+#role-of-account tr td .remove {
+    background-color: #dc3545;
+}
+
+#role-of-account tr td .remove:hover {
+    color: #fff;
+    background-color: #c82333;
+}
+
+#accountFunctionModal .form-group {
+    margin-bottom: .25rem;
+}

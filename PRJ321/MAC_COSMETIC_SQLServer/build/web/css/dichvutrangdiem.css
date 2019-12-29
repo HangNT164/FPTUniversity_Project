@@ -1,0 +1,9 @@
+ul {
+    list-style: none;
+}
+ul,li,b{
+    font-size:12px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}

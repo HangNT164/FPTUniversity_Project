@@ -1,0 +1,58 @@
+#materials tr td a {
+    padding: 5px;
+    color: #fff;
+    border-radius: .15rem;
+}
+
+#materials tr td .edit {
+    background-color: #ffc107;
+}
+
+#materials tr td .edit:hover {
+    color: #fff;
+    background-color: #e0a800;
+}
+
+
+#table-material-build tr th {
+    font-weight: 500;
+}
+
+#table-material-build tr td a {
+    padding: 5px;
+    color: #fff;
+    border-radius: .15rem;
+}
+
+#table-material-build tr td {
+    padding: .35rem .75rem;
+    vertical-align: middle;
+}
+
+#table-material-build  tr td .remove {
+    background-color: #dc3545;
+}
+
+#table-material-build  tr td .remove:hover {
+    color: #fff;
+    background-color: #c82333;
+}
+
+
+.form-control-sm {
+    display: inline-block;
+    width: 100px;
+}
+
+
+.select-materials .form-control {
+    width: 250px;
+    height: 35px;
+    display: inline-block;
+}
+
+.btn-select {
+    position: absolute;
+}
+
+

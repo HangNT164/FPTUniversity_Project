@@ -1,0 +1,33 @@
+create database ManagementStudent
+/****** Object:  Table [dbo].[account] ******/
+CREATE TABLE [dbo].[account](
+	[id] [int] IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[username] [nvarchar](50) NULL,
+	[password] [nvarchar](50) NULL,
+	[type] [int] NULL,
+	[status] [int] NOT NULL
+)
+
+/****** Object:  Table [dbo].[student] ******/
+CREATE TABLE [dbo].[student](
+	[id] [int] IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[roll_number] [nvarchar](50) NULL,
+	[full_name] [nvarchar](100) NULL,
+	[gender] [bit] NULL,
+	[email] [nvarchar](100) NULL,
+	[phone_number] [nvarchar](100) NULL,
+	[address] [nvarchar](2000) NULL
+)
+/*Inset data for account*/
+INSERT INTO [dbo].[account]([username],[password],[type] ,[status])
+VALUES 
+('admin','123456',1,0),
+('hangnt','123456',1,0),
+('abc','123456',0,0),
+('hoall','123456',0,0)
+/*Inset data for STUDENT*/
+INSERT INTO [dbo].[student] ([roll_number],[full_name] ,[gender],[email] ,[phone_number] ,[address])
+VALUES
+('he130461','Nguyen Thuy Hang',0,'hangnthe130461@fpt.edu.vn','0942578685','Nam Dinh'),
+('he130639','Tran Trung Hieu',1,'hieutthe130639@fpt.edu.vn','0945136951','Vinh Phuc'),
+('he130465','Ngo Anh Tuan',1,'tuannahe130465@fpt.edu.vn','01234567890','Nam Dinh')

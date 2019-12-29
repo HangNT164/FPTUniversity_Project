@@ -1,0 +1,36 @@
+@media (min-width: 767px) {
+    .container-fluid {
+        padding-right: 1.25rem;
+        padding-left: 1.25rem;
+    }
+}
+
+@media (max-width: 767px) {
+    .container-fluid {
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+}
+
+
+/*
+ * ========== Custom color card ==========
+ */
+
+#content-wrapper .statistical .card {
+    border: 1px solid #3bac47;
+    background-color: #3bac47;
+    padding: 15px 18px;
+    border-radius: 4px;
+    color: #fff;
+    margin-bottom: 1rem;
+}
+
+#content-wrapper .statistical .card .huge {
+    font-size: 40px;
+    line-height: normal;
+}
+
+#content-wrapper .statistical .card .sub-text {
+    font-size: 15px;
+}

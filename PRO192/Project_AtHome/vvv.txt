@@ -1,0 +1,21 @@
+Anh chỉ check qua StudentModel thôi nhé
+
+1. hàm add() cần check duplicate rollnumber
+2. hàm delete() đã getIndex() lại for là thừa, nên viết lại ntn:
+
+	@Override
+    public boolean delete(ArrayList<Student> list, String rollNumber) {
+        int index = getIndex(list, rollNumber);
+        if (index >= 0) {
+            Student s = list.remove(index);
+            if (s != null) {
+                return true;
+            }
+        }
+        return false;
+    }
+	
+3. hàm search() trong các case không cần newStudent.clear();
+   vì mỗi lần gọi hàm search() luôn tạo ra 1 list mới rồi
+   
+   ArrayList<Student> newStudent = new ArrayList<>();

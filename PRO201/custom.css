@@ -1,0 +1,95 @@
+.xxx{
+    height: 330px;
+    background: linear-gradient(180deg,rgb(194,29,50) 0%,rgba(46,55,73,.8) 99%);
+}
+
+body{
+    background-repeat:  repeat;
+    background-image:url('img/bgr.jpg');
+    background-size: cover;
+    color:white;
+    background-position: center;
+}
+
+
+
+.search [type="text"] {
+    width: 350px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: white;
+
+}
+
+.nav-link:hover{
+    background:black;
+    border-radius:30px;
+    
+}
+
+.height-slide{
+    height: 330px;
+}
+.cach-nav{
+    padding-right:40px;
+}
+
+.dong-3{
+    height:148px;
+    width: 366px;
+  
+}
+
+.tintuc{
+    height:125px;
+    width:265px;
+}
+.text1{
+   font-size: 5px;
+}
+.imgdtiphoneleft{
+    width: 260px;
+    height: 936px;
+}
+.imgiphone-right{
+    width:174px;
+    height:210px;
+}
+.gia-iphone{
+    text-decoration-color: red;
+    padding-left:35px;
+}
+.imgend{
+    height:50px;
+    width:50px;
+    margin:10px 70px;
+}
+.paddingend{
+     padding-left:77px;
+}
+.trang2{
+    background: red;
+    border-radius:30px;
+    height: 50px;
+}
+.textalgin{
+    text-align: center;
+    padding-top:10px;
+    margin-top:20px;
+}
+td pre{
+    color:white
+}
+b{
+    color: white;
+}
+div ul li b{
+    color:white;
+}
+
+.img:hover{
+color: #000;
+background-color: #ccc;
+width: 100%;
+opacity: 50;
+

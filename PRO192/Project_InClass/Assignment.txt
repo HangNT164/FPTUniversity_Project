@@ -1,0 +1,33 @@
+bam 1 nhap them 1 khach hang gom cac thong tin(ten , id,gt)
+
+bam 2 nhap san pham (id,name,price)
+
+bam 3 (thiet ke 1 hoa don cho khach hang.Trong 1 hoa don gom :invoideNumber, invoidDate,
+thong tin cua khach hang va gom nhieu cac invoice line(kieu san pham hay mua).
+
+Trong invoidLine gom : thong tin cua san pham da mua,so luong cua san pham da mua ,
+do gia cua san pham da mua. Nguoi su dung can phai khai bao thong tin va MSKH va MS san pham va so luong
+
+bam 4(cho phep nguoi dung nhap vao ma so hoa don va cho phep nguoi dung hien thi hoa don do=> muangay nao , bn)
+
+bam 5.exist
+
+
+------------------------------------
+main 1: customer gom các function : 
+	- input Customer 
+	- update Customer 
+	- delete Customer 
+	- display 
+	- sorting 
+main 2 : products gom các function:
+	- input product
+	- update product
+	- delete product
+	- display 
+	- sorting 
+main 3: invoice gôm các function :
+	- thiet ke 1 hoa don 
+	- display 1 hoa don 
+-----------------------------------
+products , customer, invoice, luu vao file 

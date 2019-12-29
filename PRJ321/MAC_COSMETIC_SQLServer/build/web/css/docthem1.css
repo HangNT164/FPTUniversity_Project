@@ -1,0 +1,33 @@
+/* Navbar animation */
+.navbar {
+    background-color: black;
+  }
+  
+.top-nav-collapse {
+    background-color:black; 
+}
+  
+.page-footer,.top-na-collapse{
+    background-color:black;
+}
+
+#container-body{
+    margin-top:2%;
+}
+p{
+    font-size: 15px;
+}
+ul {
+    list-style: none;
+}
+h2{
+    font-size:20px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.btn[class*=btn-outline-] {
+    padding-top: .7rem;
+    padding-bottom: .7rem;
+    width: 100px;
+}

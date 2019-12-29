@@ -1,0 +1,51 @@
+/* Required height of parents of the Full Page Carousel for proper displaying carousel itself */
+html,
+body,
+.view {
+    height: 100%; 
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+}
+h5{
+    font-size: 25px;
+    color:black;
+}
+/* Full Page Carousel itself*/
+.carousel {
+    height: 100%; }
+.carousel .carousel-inner {
+    height: 100%; }
+.carousel .carousel-inner .carousel-item,
+.carousel .carousel-inner .active {
+    height: 100%; 
+}
+
+/* Navbar animation */
+.navbar {
+    background-color: black;
+}
+
+.top-nav-collapse {
+    background-color:black; 
+}
+
+/* Adding color to the Navbar on mobile */
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #1C2331; } }
+
+/* Footer color for sake of consistency with Navbar */
+.page-footer {
+    background-color: black; 
+}
+.card{
+    box-shadow: none !important;
+}
+.btn{
+    padding:0px;
+}
+
+#gmap{
+    height: 1000px;
+}
+

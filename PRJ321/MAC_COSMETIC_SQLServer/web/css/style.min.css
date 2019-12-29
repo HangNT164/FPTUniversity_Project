@@ -1,0 +1,52 @@
+.carousel,.carousel .carousel-inner,.carousel .carousel-inner 
+.active,.carousel .carousel-inner .carousel-item,.view,body,html{
+    height:100%
+}
+.navbar {
+    background-color:white;
+}
+
+.page-footer,.top-na-collapse{
+    background-color:black;
+}
+@media only screen and (max-width:768px){
+    .navbar{
+        background-color:#1C2331
+    }
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.card{
+    box-shadow: none !important;
+}
+p,h5{
+    color:black;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar .dropdown-menu {
+    position: absolute!important;
+    margin-top: 0;
+    padding-top: 0;
+}
+.navbar.scrolling-navbar {
+    transition: background .5s ease-in-out,padding .5s ease-in-out;
+    padding-top: 12px;
+    height: 7%;
+    padding-bottom: 12px;
+}
+.navbar.scrolling-navbar.top-nav-collapse {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 6%;
+}
+@media (min-width:600px){
+    .navbar .dropdown-menu form{
+        width: 15rem;
+        height: 2rem;
+    }
+}
