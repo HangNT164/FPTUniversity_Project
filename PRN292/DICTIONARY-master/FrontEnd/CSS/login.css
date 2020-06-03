@@ -1,0 +1,51 @@
+body {
+    overflow-x:hidden;
+}
+.mainContent{
+    margin: 100px 0px 100px 0px;
+}
+img{
+    object-fit: contain;
+}
+h3{
+    text-align: center;     
+}
+input{
+    border: none;
+    border-radius: 6px;
+    height: 50px;
+    box-shadow: none;
+    margin: 8px;
+    position: relative;
+}
+.username{
+    background-image: url("../loginForm/icons8-user-24.png");
+}
+.password{
+    background-image: url("../loginForm/icons8-key-24.png");
+    background-size: 20px;
+}
+.username, .password{
+    background-color: #E6E6E6;
+    padding-left: 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: 5px;
+}
+.login{
+    background-color: #57B846;
+    
+    font-weight: bold;
+    color: white;
+}
+p{
+    color: #8E8E8E;
+}
+p,a{
+    text-align: center;
+}
+a{
+    font-weight: bold;
+    color: #707070;
+    text-decoration: none !important;
+}

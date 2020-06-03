@@ -1,0 +1,29 @@
+body {
+    overflow-x: hidden;
+    background: url("../images/photo_bg2.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+.container{
+    margin: 110px 0px 110px 0px;
+}
+label, h3{
+    font-weight: bold;
+}
+label,input{
+    margin: 8px 0px 8px 0px;
+}
+input{
+    width: 70%;
+    border-radius: 10px;
+    border: none;
+    background-color: #E6E6E6;
+    height: 35px;
+}
+
+.submit{
+    background-color: #66CCFF;
+    width: 100px;
+    height: 40px;
+    color: white;
+    margin-top: 30px;
+}

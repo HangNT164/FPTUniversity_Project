@@ -1,0 +1,109 @@
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\FrontEnd\bin\FrontEnd.dll.config
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\FrontEnd\bin\FrontEnd.dll
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\FrontEnd\bin\FrontEnd.pdb
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\FrontEnd\obj\Debug\FrontEnd.dll
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\FrontEnd\obj\Debug\FrontEnd.pdb
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\FrontEnd\bin\Entity.dll
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\FrontEnd\bin\Entity.pdb
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\FrontEnd\bin\FrontEnd.dll.config
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\FrontEnd\bin\FrontEnd.dll
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\FrontEnd\bin\FrontEnd.pdb
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\FrontEnd\bin\Entity.dll
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\FrontEnd\bin\Entity.pdb
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.dll
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\NguyenDat\Desktop\Project\dymanic_dictionary\FrontEnd\bin\FrontEnd.dll.config
+C:\Users\NguyenDat\Desktop\Project\dymanic_dictionary\FrontEnd\bin\FrontEnd.dll
+C:\Users\NguyenDat\Desktop\Project\dymanic_dictionary\FrontEnd\bin\FrontEnd.pdb
+C:\Users\NguyenDat\Desktop\Project\dymanic_dictionary\FrontEnd\bin\Entity.dll
+C:\Users\NguyenDat\Desktop\Project\dymanic_dictionary\FrontEnd\bin\Entity.pdb
+C:\Users\NguyenDat\Desktop\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+C:\Users\NguyenDat\Desktop\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
+C:\Users\NguyenDat\Desktop\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.dll
+C:\Users\NguyenDat\Desktop\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\HangNT\Downloads\Project\dymanic_dictionary\FrontEnd\bin\FrontEnd.dll.config
+C:\Users\HangNT\Downloads\Project\dymanic_dictionary\FrontEnd\bin\FrontEnd.dll
+C:\Users\HangNT\Downloads\Project\dymanic_dictionary\FrontEnd\bin\FrontEnd.pdb
+C:\Users\HangNT\Downloads\Project\dymanic_dictionary\FrontEnd\bin\Entity.dll
+C:\Users\HangNT\Downloads\Project\dymanic_dictionary\FrontEnd\bin\Entity.pdb
+C:\Users\HangNT\Downloads\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+C:\Users\HangNT\Downloads\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
+C:\Users\HangNT\Downloads\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.dll
+C:\Users\HangNT\Downloads\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.pdb
+G:\5th semester\C# - .Net\Project\Project\Project\dymanic_dictionary\FrontEnd\bin\FrontEnd.dll.config
+G:\5th semester\C# - .Net\Project\Project\Project\dymanic_dictionary\FrontEnd\bin\FrontEnd.dll
+G:\5th semester\C# - .Net\Project\Project\Project\dymanic_dictionary\FrontEnd\bin\FrontEnd.pdb
+G:\5th semester\C# - .Net\Project\Project\Project\dymanic_dictionary\FrontEnd\bin\Entity.dll
+G:\5th semester\C# - .Net\Project\Project\Project\dymanic_dictionary\FrontEnd\bin\Entity.pdb
+G:\5th semester\C# - .Net\Project\Project\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+G:\5th semester\C# - .Net\Project\Project\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
+G:\5th semester\C# - .Net\Project\Project\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.dll
+G:\5th semester\C# - .Net\Project\Project\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\HangNT\Downloads\Project\Project\dymanic_dictionary\FrontEnd\bin\FrontEnd.dll.config
+C:\Users\HangNT\Downloads\Project\Project\dymanic_dictionary\FrontEnd\bin\FrontEnd.dll
+C:\Users\HangNT\Downloads\Project\Project\dymanic_dictionary\FrontEnd\bin\FrontEnd.pdb
+C:\Users\HangNT\Downloads\Project\Project\dymanic_dictionary\FrontEnd\bin\Entity.dll
+C:\Users\HangNT\Downloads\Project\Project\dymanic_dictionary\FrontEnd\bin\Entity.pdb
+C:\Users\HangNT\Downloads\Project\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+C:\Users\HangNT\Downloads\Project\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
+C:\Users\HangNT\Downloads\Project\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.dll
+C:\Users\HangNT\Downloads\Project\Project\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\HangNT\Desktop\DICTIONARY\dymanic_dictionary\FrontEnd\bin\FrontEnd.dll.config
+C:\Users\HangNT\Desktop\DICTIONARY\dymanic_dictionary\FrontEnd\bin\FrontEnd.dll
+C:\Users\HangNT\Desktop\DICTIONARY\dymanic_dictionary\FrontEnd\bin\FrontEnd.pdb
+C:\Users\HangNT\Desktop\DICTIONARY\dymanic_dictionary\FrontEnd\bin\Entity.dll
+C:\Users\HangNT\Desktop\DICTIONARY\dymanic_dictionary\FrontEnd\bin\Entity.pdb
+C:\Users\HangNT\Desktop\DICTIONARY\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+C:\Users\HangNT\Desktop\DICTIONARY\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
+C:\Users\HangNT\Desktop\DICTIONARY\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.dll
+C:\Users\HangNT\Desktop\DICTIONARY\dymanic_dictionary\FrontEnd\obj\Debug\FrontEnd.pdb
+G:\4th Semester\DICTIONARY\FrontEnd\bin\FrontEnd.dll.config
+G:\4th Semester\DICTIONARY\FrontEnd\bin\FrontEnd.dll
+G:\4th Semester\DICTIONARY\FrontEnd\bin\FrontEnd.pdb
+G:\4th Semester\DICTIONARY\FrontEnd\bin\Entity.dll
+G:\4th Semester\DICTIONARY\FrontEnd\bin\Entity.pdb
+G:\4th Semester\DICTIONARY\FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+G:\4th Semester\DICTIONARY\FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
+G:\4th Semester\DICTIONARY\FrontEnd\obj\Debug\FrontEnd.dll
+G:\4th Semester\DICTIONARY\FrontEnd\obj\Debug\FrontEnd.pdb
+G:\4th Semester\DICTIONARY\FrontEnd\bin\BackEnd.dll
+G:\4th Semester\DICTIONARY\FrontEnd\bin\BackEnd.pdb
+G:\4th Semester\DICTIONARY\FrontEnd\bin\BackEnd.dll.config
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\FrontEnd\bin\FrontEnd.dll.config
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\FrontEnd\bin\FrontEnd.dll
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\FrontEnd\bin\FrontEnd.pdb
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\FrontEnd\bin\BackEnd.dll
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\FrontEnd\bin\Entity.dll
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\FrontEnd\bin\BackEnd.pdb
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\FrontEnd\bin\BackEnd.dll.config
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\FrontEnd\bin\Entity.pdb
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\FrontEnd\obj\Debug\FrontEnd.dll
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\FrontEnd\obj\Debug\FrontEnd.pdb
+G:\3rd Semester\MyDictionary\DICTIONARY\FrontEnd\bin\FrontEnd.dll.config
+G:\3rd Semester\MyDictionary\DICTIONARY\FrontEnd\bin\FrontEnd.dll
+G:\3rd Semester\MyDictionary\DICTIONARY\FrontEnd\bin\FrontEnd.pdb
+G:\3rd Semester\MyDictionary\DICTIONARY\FrontEnd\bin\BackEnd.dll
+G:\3rd Semester\MyDictionary\DICTIONARY\FrontEnd\bin\Entity.dll
+G:\3rd Semester\MyDictionary\DICTIONARY\FrontEnd\bin\BackEnd.pdb
+G:\3rd Semester\MyDictionary\DICTIONARY\FrontEnd\bin\BackEnd.dll.config
+G:\3rd Semester\MyDictionary\DICTIONARY\FrontEnd\bin\Entity.pdb
+G:\3rd Semester\MyDictionary\DICTIONARY\FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+G:\3rd Semester\MyDictionary\DICTIONARY\FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
+G:\3rd Semester\MyDictionary\DICTIONARY\FrontEnd\obj\Debug\FrontEnd.dll
+G:\3rd Semester\MyDictionary\DICTIONARY\FrontEnd\obj\Debug\FrontEnd.pdb
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\FrontEnd\bin\FrontEnd.dll.config
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\FrontEnd\bin\FrontEnd.dll
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\FrontEnd\bin\FrontEnd.pdb
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\FrontEnd\bin\BackEnd.dll
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\FrontEnd\bin\Entity.dll
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\FrontEnd\bin\BackEnd.pdb
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\FrontEnd\bin\BackEnd.dll.config
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\FrontEnd\bin\Entity.pdb
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\FrontEnd\obj\Debug\FrontEnd.dll
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\FrontEnd\obj\Debug\FrontEnd.pdb

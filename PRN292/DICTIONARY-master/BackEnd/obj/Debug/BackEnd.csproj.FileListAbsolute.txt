@@ -1,0 +1,61 @@
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\BackEnd\bin\BackEnd.dll.config
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\BackEnd\bin\BackEnd.dll
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\BackEnd\bin\BackEnd.pdb
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\BackEnd\bin\Entity.dll
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\BackEnd\bin\Entity.pdb
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\BackEnd\obj\Debug\BackEnd.dll
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\BackEnd\obj\Debug\BackEnd.pdb
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\BackEnd\bin\BackEnd.dll.config
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\BackEnd\bin\BackEnd.dll
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\BackEnd\bin\BackEnd.pdb
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\BackEnd\bin\Entity.dll
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\BackEnd\bin\Entity.pdb
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\BackEnd\obj\Debug\BackEnd.dll
+D:\Documents\FPT University\PRN292\Project\dymanic_dictionary\BackEnd\obj\Debug\BackEnd.pdb
+G:\5th semester\C# - .Net\Project\Project\Project\dymanic_dictionary\BackEnd\bin\BackEnd.dll.config
+G:\5th semester\C# - .Net\Project\Project\Project\dymanic_dictionary\BackEnd\bin\BackEnd.dll
+G:\5th semester\C# - .Net\Project\Project\Project\dymanic_dictionary\BackEnd\bin\BackEnd.pdb
+G:\5th semester\C# - .Net\Project\Project\Project\dymanic_dictionary\BackEnd\bin\Entity.dll
+G:\5th semester\C# - .Net\Project\Project\Project\dymanic_dictionary\BackEnd\bin\Entity.pdb
+G:\5th semester\C# - .Net\Project\Project\Project\dymanic_dictionary\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+G:\5th semester\C# - .Net\Project\Project\Project\dymanic_dictionary\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+G:\5th semester\C# - .Net\Project\Project\Project\dymanic_dictionary\BackEnd\obj\Debug\BackEnd.dll
+G:\5th semester\C# - .Net\Project\Project\Project\dymanic_dictionary\BackEnd\obj\Debug\BackEnd.pdb
+G:\4th Semester\DICTIONARY\BackEnd\bin\BackEnd.dll.config
+G:\4th Semester\DICTIONARY\BackEnd\bin\BackEnd.dll
+G:\4th Semester\DICTIONARY\BackEnd\bin\BackEnd.pdb
+G:\4th Semester\DICTIONARY\BackEnd\bin\Entity.dll
+G:\4th Semester\DICTIONARY\BackEnd\bin\Entity.pdb
+G:\4th Semester\DICTIONARY\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+G:\4th Semester\DICTIONARY\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+G:\4th Semester\DICTIONARY\BackEnd\obj\Debug\BackEnd.dll
+G:\4th Semester\DICTIONARY\BackEnd\obj\Debug\BackEnd.pdb
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\BackEnd\bin\BackEnd.dll.config
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\BackEnd\bin\BackEnd.dll
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\BackEnd\bin\BackEnd.pdb
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\BackEnd\bin\Entity.dll
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\BackEnd\bin\Entity.pdb
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\BackEnd\obj\Debug\BackEnd.dll
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\BackEnd\obj\Debug\BackEnd.pdb
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+G:\3rd Semester\MyDictionary\DICTIONARY\BackEnd\bin\BackEnd.dll.config
+G:\3rd Semester\MyDictionary\DICTIONARY\BackEnd\bin\BackEnd.dll
+G:\3rd Semester\MyDictionary\DICTIONARY\BackEnd\bin\BackEnd.pdb
+G:\3rd Semester\MyDictionary\DICTIONARY\BackEnd\bin\Entity.dll
+G:\3rd Semester\MyDictionary\DICTIONARY\BackEnd\bin\Entity.pdb
+G:\3rd Semester\MyDictionary\DICTIONARY\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+G:\3rd Semester\MyDictionary\DICTIONARY\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+G:\3rd Semester\MyDictionary\DICTIONARY\BackEnd\obj\Debug\BackEnd.dll
+G:\3rd Semester\MyDictionary\DICTIONARY\BackEnd\obj\Debug\BackEnd.pdb
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\BackEnd\bin\BackEnd.dll.config
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\BackEnd\bin\BackEnd.dll
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\BackEnd\bin\BackEnd.pdb
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\BackEnd\bin\Entity.dll
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\BackEnd\bin\Entity.pdb
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\BackEnd\obj\Debug\BackEnd.dll
+E:\1.FPTUniversity\Form 5-Spring 2019\.NET and C#(PRN292)\C#OfHaPN\2.Assignment\Group\DICTIONARY\BackEnd\obj\Debug\BackEnd.pdb

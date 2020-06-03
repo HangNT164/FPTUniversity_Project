@@ -1,0 +1,30 @@
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\Entity\bin\Debug\Entity.dll
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\Entity\bin\Debug\Entity.pdb
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\Entity\obj\Debug\Entity.dll
+D:\Documents\FPT University\PRN292\Project\Assigment_Csharp-dev\Assigment_Csharp-dev\Entity\obj\Debug\Entity.pdb
+C:\Users\NguyenDat\Desktop\Project\dymanic_dictionary\Entity\bin\Debug\Entity.dll
+C:\Users\NguyenDat\Desktop\Project\dymanic_dictionary\Entity\bin\Debug\Entity.pdb
+C:\Users\NguyenDat\Desktop\Project\dymanic_dictionary\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\NguyenDat\Desktop\Project\dymanic_dictionary\Entity\obj\Debug\Entity.dll
+C:\Users\NguyenDat\Desktop\Project\dymanic_dictionary\Entity\obj\Debug\Entity.pdb
+C:\Users\HangNT\Downloads\Project\dymanic_dictionary\Entity\bin\Debug\Entity.dll
+C:\Users\HangNT\Downloads\Project\dymanic_dictionary\Entity\bin\Debug\Entity.pdb
+C:\Users\HangNT\Downloads\Project\dymanic_dictionary\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\HangNT\Downloads\Project\dymanic_dictionary\Entity\obj\Debug\Entity.dll
+C:\Users\HangNT\Downloads\Project\dymanic_dictionary\Entity\obj\Debug\Entity.pdb
+C:\Users\HangNT\Desktop\DICTIONARY\dymanic_dictionary\Entity\bin\Debug\Entity.dll
+C:\Users\HangNT\Desktop\DICTIONARY\dymanic_dictionary\Entity\bin\Debug\Entity.pdb
+C:\Users\HangNT\Desktop\DICTIONARY\dymanic_dictionary\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\HangNT\Desktop\DICTIONARY\dymanic_dictionary\Entity\obj\Debug\Entity.dll
+C:\Users\HangNT\Desktop\DICTIONARY\dymanic_dictionary\Entity\obj\Debug\Entity.pdb
+G:\4th Semester\DICTIONARY\Entity\bin\Debug\Entity.dll
+G:\4th Semester\DICTIONARY\Entity\bin\Debug\Entity.pdb
+G:\4th Semester\DICTIONARY\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+G:\4th Semester\DICTIONARY\Entity\obj\Debug\Entity.dll
+G:\4th Semester\DICTIONARY\Entity\obj\Debug\Entity.pdb
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\Entity\bin\Debug\Entity.dll
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\Entity\bin\Debug\Entity.pdb
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\Entity\obj\Debug\Entity.dll
+D:\DocumentSource\Menu\Term 5\PRNCSharp\Project\MyProject\DICTIONARY\Entity\obj\Debug\Entity.pdb
